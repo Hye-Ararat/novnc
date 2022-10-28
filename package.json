@@ -1,15 +1,15 @@
 {
-  "name": "novnc-core",
-  "version": "0.3.0",
-  "description": "noVNC core files for using with node",
+  "name": "hyevnc-react",
+  "version": "0.0.1",
+  "description": "VNC client for react for Hye Ararat based on noVNC",
   "main": "lib/rfb.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:larryprice/novnc-core.git"
+    "url": "git@github.com:Hye-Ararat/novnc.git"
   },
-  "author": "Larry Price <larry.price.dev@gmail.com>",
+  "author": "Joseph Maldjian, Robert DeLeeuw, Larry Price <larry.price.dev@gmail.com>",
   "license": "MPL 2.0"
 }
